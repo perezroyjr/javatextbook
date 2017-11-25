@@ -1,0 +1,15 @@
+package Chapter1;
+
+public class Pattern {
+
+	public static void main(String[] args){
+		System.out.print("   J\n  J\n  J");
+//		System.out.println("");
+		System.out.println("J");
+		System.out.println(" J J");
+		
+		
+	}
+	
+	
+}

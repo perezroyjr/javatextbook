@@ -1,0 +1,10 @@
+package Chapter1;
+
+public class AverageSpeedInMiles {
+
+	public static void main(String[] args){
+		
+		System.out.println(14 / 1.6);
+		
+	}
+}

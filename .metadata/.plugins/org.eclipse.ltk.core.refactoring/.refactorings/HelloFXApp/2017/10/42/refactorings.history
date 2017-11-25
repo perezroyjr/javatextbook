@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.jdodo.intro&apos; to &apos;com.jdojo.intro&apos;&#x0D;&#x0A;- Original project: &apos;HelloFXApp&apos;&#x0D;&#x0A;- Original element: &apos;HelloFXApp/src/com.jdodo.intro&apos;&#x0D;&#x0A;- Renamed element: &apos;HelloFXApp/src/com.jdojo.intro&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.jdodo.intro&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.jdodo.intro" name="com.jdojo.intro" qualified="false" references="true" stamp="1508192375147" textual="false" version="1.0"/>
+</session>
